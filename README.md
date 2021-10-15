@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 2. Structure of the project
 
-three folders under  folder CS7641_HW2:
+two folders under  folder CS7641_HW2:
 data/
 	breast_cancer_dataset.csv
 scripts/
